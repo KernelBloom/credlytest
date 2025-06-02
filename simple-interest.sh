@@ -1,7 +1,7 @@
 #!/bin/bash
 # simple-interest.sh
 # Calculates simple interest
-
+ 
 # Check if 3 arguments are provided
 if [ "$#" -ne 3 ]; then
     echo "Usage: $0 <principal> <rate> <time>"
